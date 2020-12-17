@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m very open to working on challenging projects that make the world a better place.
 - 🥅 2020 Goals: Showcase more of my projects on my Github Projects.
-- ⚡ Fun fact: I love to play Hearthstone and I read alot too.
 
 ### Connect with me:
 
