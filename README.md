@@ -4,7 +4,7 @@
 
 - 🔭 I’m very well versed in Web development, both Backend and Frontend
 - 🔭 I write pretty sweet React Native apps too!
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Flutter
 - 👯 I’m very open to working on challenging projects that make the world a better place.
 - 🥅 2020 Goals: Showcase more of my projects on my Github Projects.
 - ⚡ Fun fact: I love to play Hearthstone and I read alot too.
